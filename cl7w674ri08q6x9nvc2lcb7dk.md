@@ -5,9 +5,9 @@ I am doing 100 days of code and I am on day 5.
 I would like to share some tips and tricks regarding today's project.
 
 As you guys know, many people's accounts are getting hacked and their passwords are getting stolen.
-Once a hacker has generated your password for any of your social media accounts, as you know, many people use the same password for all of their social media accounts and then he can hack all of your accounts that have the same or similar password. That is what we are going to solve today.
+Once a hacker has generated your password for any of your social media accounts (as you know, many people use the same password for all of their social media accounts), he can then hack all of your accounts that have the same or similar password. That is what we are going to solve today.
 
-So my today's project was to make a local password manager, which you can check out on my [twitter](Link) and [Github](Link) for code.
+So my today's project was to make a local password manager, which you can check out on my [twitter](https://twitter.com/ashsuper18/status/1568647780176117763) and [Github](https://github.com/ashsuper18/100DaysOfCode) for code.
 
 ### How to check if you are safe or not?
 
